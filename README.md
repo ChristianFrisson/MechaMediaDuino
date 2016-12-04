@@ -10,5 +10,6 @@ A subset of not so new interfaces for musical expression have been traditionally
 
 This talk will start with a short overview of past personal projects on tangible-to-force-feedback media browsing. The core of the talk is to provide a log reporting hands-on attempts in replicating interaction techniques for force-feedback audio browsing from seminal papers, towards a "hello world" tutorial, using a recent low-cost opensource and openhardware servo motor project ([Mechaduino](https://github.com/jcchurch13/Mechaduino-Firmware)) and a fork of a visual programming environment dedicated for audio/control dataflow ([PurrData](https://git.purrdata.net/jwilkes/purr-data) out of PureData) that had already been used for prototyping force-feedback and music applications.
 
-## Author
- * [Christian Frisson](http://christian.frisson.re) ([Inria Lille](https://www.inria.fr/en/centre/lille), [Mjolnir](http://mjolnir.lille.inria.fr/) team)
+## Authors
+ * [Christian Frisson](http://christian.frisson.re) ([Inria Lille](https://www.inria.fr/en/centre/lille), [Mjolnir](http://mjolnir.lille.inria.fr/) human incapacitation team): force-feedback (rotary) audio browsing (design and development)
+ * [Mario Sanz Lopez](https://team.inria.fr/defrost/team-members/mario-sanz-lopez/) ([Inria Lille](https://www.inria.fr/en/centre/lille), [Defrost](https://team.inria.fr/defrost/) soft robotics and [InriaTech](https://www.inria.fr/en/centre/lille/innovation/inriatech-creating-jobs-through-research-and-innovation) tech transfer teams): hardware setup and 3d models/printing
